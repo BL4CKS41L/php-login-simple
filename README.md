@@ -1,3 +1,1 @@
-# php-login-simple
-===============================
-### Itzayana Project.
+# Itzayana Project.
